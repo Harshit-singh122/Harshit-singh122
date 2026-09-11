@@ -2,10 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <img
-  src="https://github.com/Harshit-singh122/Harshit-singh122/raw/main/profile.gif"
-  width="100%"
-  alt="Profile animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
+  <img alt="Arif Hasan" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
   
 </picture>
 
