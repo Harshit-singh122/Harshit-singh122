@@ -2,10 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
-  <img alt="Harshit singh" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
-  
+  <img
+    alt="Harshit singh"
+    src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/profile.svg">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
