@@ -2,19 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/main/profile.gif">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/main/profile.gif">
-
-  <img
-    src="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/main/profile.gif"
-    alt="Harshit Singh">
-</picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
+  <img alt="Arif Hasan" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
   
 </picture>
 
