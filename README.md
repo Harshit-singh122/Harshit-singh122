@@ -2,11 +2,19 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  
- <video autoplay muted loop playsinline width="100%">
-  <source src="[profile.mp4](https://github.com/Harshit-singh122/Harshit-singh122/blob/main/profile.mp4)" type="video/mp4">
-</video>
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/main/profile.gif">
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/main/profile.gif">
+
+  <img
+    src="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/main/profile.gif"
+    alt="Harshit Singh">
+</picture>
   
 </picture>
 
