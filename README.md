@@ -1,81 +1,126 @@
-<!-- Phase 1: Animated Theme-Aware Terminal Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/main/light.svg">
-  <img alt="Harshit Singh Profile" src="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/main/light.svg">
-</picture>
+# 👋 Hey there, I'm Harshit!
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Cloud+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-<!-- Phase 4: Social Badges -->
-<div align="center">
-  <a href="https://linkedin.com/in/harshit-singh-3bb773330">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:harshit.2024ug1077@iiitranchi.ac.in">
-    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://resume-clone-sable.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
-  </a>
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-### 🚀 About Me
-* 🎓 **Education:** CS Undergraduate at **IIIT Ranchi** (Class of '28 | CGPA: 8.05)
-* 🏆 **Achievements:** 1st Place Winner at IIIT Ranchi College-Level Hackathon | Google Generative AI Certified
-* 💡 **Focus:** Software engineering, full-stack web development, and AI-powered automation solutions
-* 💻 **Problem Solving:** 2-Star CodeChef solver with a strong foundation in DSA, OOP, and System Fundamentals
+## 👨‍💻 About Me
+
+💻 **Full Stack Developer** passionate about building modern and scalable web applications.
+
+🌱 Currently learning **System Design, Cloud & DevOps**.
+
+🤖 Exploring **AI-powered applications** and intelligent web experiences.
+
+🚀 Building projects with **MERN Stack** and modern JavaScript technologies.
+
+🎯 Goal: Build products that solve **real-world problems**.
+
+🧠 Always learning, experimenting, and improving.
+
+⚡ I enjoy turning ideas into working products.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-* **Languages:** C, C++, Python, JavaScript, TypeScript
-* **Frontend:** React.js, Next.js, Vite, Tailwind CSS, GSAP
-* **Backend:** Node.js, Express.js, REST APIs, FastAPI
-* **Databases:** MongoDB, PostgreSQL, Prisma, SQLite
-* **AI & APIs:** Gemini API, LangChain, Prompt Engineering
-* **Tools & Deployment:** Git, GitHub, Clerk, Vercel, Render, Postman
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css" />
+</p>
+
+### 🚀 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux" />
+</p>
 
 ---
 
-### ⚡ Featured Projects
+## 🚀 Featured Projects
 
-* 🤖 **[AI-Powered SaaS Invoice Generator](https://github.com/Harshit-singh122)**
-  * **Tech:** React.js, Node.js, Express.js, MongoDB, Clerk, Gemini API
-  * Generates professional invoices from natural language prompts, reducing workflow creation time by over 60%.
+### 📄 Resume Clone
 
-* 🏛️ **[Campus Problem Solver](https://github.com/Harshit-singh122)**
-  * **Tech:** React.js, FastAPI, LangChain, Gemini API, SQLite
-  * Automated AI complaint classification and routing platform with dynamic monitoring dashboards.
+A modern resume-building project built using modern web technologies.
 
-* 📄 **[Resume Web App](https://github.com/Harshit-singh122/resume-clone)** | [Live Demo](https://resume-clone-sable.vercel.app)
-  * **Tech:** React.js, Vite, Tailwind CSS
-  * Responsive, modular UI resume web application deployed and monitored on Vercel.
+🔗 [View Project](https://github.com/YOUR_USERNAME/resume-clone)
+
+### 🤖 AI Projects
+
+Exploring AI-powered applications and integrating intelligent features into web applications.
+
+### 🌐 More Projects
+
+Check out my repositories to see what I'm currently building.
 
 ---
 
-<!-- Phase 2: Stats Cards -->
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Harshit-singh122&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
-  <br/><br/>
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=Harshit-singh122&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Harshit-singh122&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
-</div>
+## 📊 GitHub Analytics
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<!-- Phase 3: Contribution Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/output/github-snake.svg" />
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Harshit-singh122/Harshit-singh122/output/github-snake.svg" />
-  </picture>
-</div>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Building. Learning. Shipping. Repeating. 🚀</i>
+</p>
+
+<p align="center">
+  <b>See you in the next commit! 🌸</b>
+</p>
